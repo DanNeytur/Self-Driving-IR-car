@@ -10,6 +10,7 @@ last update: 16/03/21- Submission version
 
 ## Description
 This project is a Self Driving IR car in Competitive Project course.
+
 This project uses IR communication to find and drive towards the IR transmitter and was made with Arduino Uno and Arduino Mega microcontrollers.
 
 ## Block diagram 
